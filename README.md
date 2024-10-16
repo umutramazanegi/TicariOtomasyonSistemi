@@ -1,5 +1,14 @@
 # TicariOtomasyonSistemi
 C# DevExpress bileşenleri ile Ticari Otomasyon Sistemi 👨‍🔧 Ticari süreçleri kolaylaştıracak ve işletmelere verimlilik kazandıracak çözümler üretmek her zaman önceliğim oldu. Bu amaç doğrultusunda, C# ve DevExpress bileşenlerini kullanarak kapsamlı bir Ticari Otomasyon Sistemi geliştirdim.
+Bu sistem; stok takibi, fatura yönetimi, ürün takibi, cari hesap yönetimi, kasa ve hareket takibi gibi temel ticari süreçleri tek bir çatı altında topluyor. 📊
+
+Detaylı grafikler ve raporlama araçları, işletmelerin performansını analiz etmelerine ve stratejik kararlar almalarına olanak tanıyor. Veri güvenliği ve tutarlılığı için SQL ile ilişkisel bir veritabanı kullandım.
+
+Kullanıcı dostu ve modern arayüzü, DevExpress araç ve bileşenleri ile tasarladım. Bu sayede, kullanıcılar sisteme kolayca adapte olup verimli bir şekilde çalışabilecekler.
+
+Proje geliştirme sürecinde edindiğim tecrübeler ve yazılım geliştirme becerilerimi bir adım öteye taşıdığım için heyecanlıyım.
+
+#csharp #devexpress #yazılımgeliştirme #otomasyon #ticariotomasyon #veritabanı
 ![Ekran görüntüsü 2024-10-15 233553](https://github.com/user-attachments/assets/bda82465-b9fb-4b92-b82f-266b9201b7ec)
 ![Ekran görüntüsü 2024-10-15 233537](https://github.com/user-attachments/assets/638427fd-4ddd-4ef2-be58-50bdfce5ca12)
 ![Ekran görüntüsü 2024-10-15 233508](https://github.com/user-attachments/assets/3fee1c03-4407-4788-8c5c-9b7d0953d6e0)
